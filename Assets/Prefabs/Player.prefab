@@ -105,8 +105,13 @@ GameObject:
   - component: {fileID: 95234199776639680}
   - component: {fileID: 61030017177824154}
   - component: {fileID: 50304428359922864}
+<<<<<<< HEAD
   - component: {fileID: 8112293368359099123}
   - component: {fileID: 8987878666222113015}
+=======
+  - component: {fileID: 8657621503266097836}
+  - component: {fileID: 1780781144058226521}
+>>>>>>> e477271252f46fcab75609709902c036cfe8dd37
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -245,7 +250,11 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+<<<<<<< HEAD
 --- !u!114 &8112293368359099123
+=======
+--- !u!114 &8657621503266097836
+>>>>>>> e477271252f46fcab75609709902c036cfe8dd37
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -260,7 +269,11 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
+<<<<<<< HEAD
 --- !u!114 &8987878666222113015
+=======
+--- !u!114 &1780781144058226521
+>>>>>>> e477271252f46fcab75609709902c036cfe8dd37
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -275,4 +288,8 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
+<<<<<<< HEAD
     - {fileID: 11400000, guid: 30d905362600490438d0f5baaf46e9b6, type: 2}
+=======
+    - {fileID: 11400000, guid: a4799b79336e34142944f5adf7f9b97c, type: 2}
+>>>>>>> e477271252f46fcab75609709902c036cfe8dd37
